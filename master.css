@@ -228,7 +228,7 @@ ul{
 }
 
 footer{
-    padding-top: 139px;
+    padding: 0%;
 }
 
 .s_f01{
@@ -269,6 +269,6 @@ footer{
 .s3_b03_09{padding-top: 117px;}
 .s3_b03_04{padding-top: 118px;}
 
-footer{
+.ft{
     padding-top: 118px;
 }
